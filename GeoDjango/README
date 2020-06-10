@@ -1,0 +1,11 @@
+DJANGO web application that uses GEODJANGO sub-framework to implement geolocation features in the application
+Uses a spatial database (PostgreSQL and PostGIS) to get benefits from the spatial features 
+
+TOOLS USED:
+PYTHON
+DJANGO WEB FRAMEWORK
+POSTGRESQL DB
+POSTGIS EXTENSION
+PIP
+VIRTUALENV
+LEAFLET
